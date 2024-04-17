@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\ooc\\0404\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01919A98-C8FD-4FD3-8770-CA88F8757DD3}|0404\\0404.vcxproj|C:\\Users\\User\\source\\repos\\ooc\\0404\\0404\\cat.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01919A98-C8FD-4FD3-8770-CA88F8757DD3}|0404\\0404.vcxproj|solutionrelative:0404\\cat.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01919A98-C8FD-4FD3-8770-CA88F8757DD3}|0404\\0404.vcxproj|C:\\Users\\User\\source\\repos\\ooc\\0404\\0404\\0404_5asc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01919A98-C8FD-4FD3-8770-CA88F8757DD3}|0404\\0404.vcxproj|solutionrelative:0404\\0404_5asc.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01919A98-C8FD-4FD3-8770-CA88F8757DD3}|0404\\0404.vcxproj|C:\\Users\\User\\source\\repos\\ooc\\0404\\0404\\0404_4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01919A98-C8FD-4FD3-8770-CA88F8757DD3}|0404\\0404.vcxproj|solutionrelative:0404\\0404_4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01919A98-C8FD-4FD3-8770-CA88F8757DD3}|0404\\0404.vcxproj|C:\\Users\\User\\source\\repos\\ooc\\0404\\0404\\0404_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01919A98-C8FD-4FD3-8770-CA88F8757DD3}|0404\\0404.vcxproj|solutionrelative:0404\\0404_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01919A98-C8FD-4FD3-8770-CA88F8757DD3}|0404\\0404.vcxproj|C:\\Users\\User\\source\\repos\\ooc\\0404\\0404\\0404_2ex.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01919A98-C8FD-4FD3-8770-CA88F8757DD3}|0404\\0404.vcxproj|solutionrelative:0404\\0404_2ex.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01919A98-C8FD-4FD3-8770-CA88F8757DD3}|0404\\0404.vcxproj|C:\\Users\\User\\source\\repos\\ooc\\0404\\0404\\0404.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01919A98-C8FD-4FD3-8770-CA88F8757DD3}|0404\\0404.vcxproj|solutionrelative:0404\\0404.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cat.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ooc\\0404\\0404\\cat.c",
+              "RelativeDocumentMoniker": "0404\\cat.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ooc\\0404\\0404\\cat.c",
+              "RelativeToolTip": "0404\\cat.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-04T06:30:25.35Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "0404_5asc.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ooc\\0404\\0404\\0404_5asc.c",
+              "RelativeDocumentMoniker": "0404\\0404_5asc.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ooc\\0404\\0404\\0404_5asc.c",
+              "RelativeToolTip": "0404\\0404_5asc.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-04T06:15:41.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "0404_4.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ooc\\0404\\0404\\0404_4.c",
+              "RelativeDocumentMoniker": "0404\\0404_4.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ooc\\0404\\0404\\0404_4.c",
+              "RelativeToolTip": "0404\\0404_4.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-04T05:17:26.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "0404_3.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ooc\\0404\\0404\\0404_3.c",
+              "RelativeDocumentMoniker": "0404\\0404_3.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ooc\\0404\\0404\\0404_3.c",
+              "RelativeToolTip": "0404\\0404_3.c",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-04T04:53:45.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "0404_2ex.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ooc\\0404\\0404\\0404_2ex.c",
+              "RelativeDocumentMoniker": "0404\\0404_2ex.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ooc\\0404\\0404\\0404_2ex.c",
+              "RelativeToolTip": "0404\\0404_2ex.c",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAB4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-04T02:26:40.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "0404.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ooc\\0404\\0404\\0404.c",
+              "RelativeDocumentMoniker": "0404\\0404.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ooc\\0404\\0404\\0404.c",
+              "RelativeToolTip": "0404\\0404.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-04T00:15:37.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

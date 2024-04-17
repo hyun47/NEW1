@@ -1,0 +1,3 @@
+﻿  0416_4.c
+C:\Users\User\source\repos\ooc\0416\0416\0416_4.c(30,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  0416.vcxproj -> C:\Users\User\source\repos\ooc\0416\x64\Debug\0416.exe

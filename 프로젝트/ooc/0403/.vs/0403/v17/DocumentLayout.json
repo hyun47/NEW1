@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\ooc\\0403\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01491828-525D-4649-A333-0275B9C99310}|0403\\0403.vcxproj|C:\\Users\\User\\source\\repos\\ooc\\0403\\0403\\123.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01491828-525D-4649-A333-0275B9C99310}|0403\\0403.vcxproj|solutionrelative:0403\\123.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01491828-525D-4649-A333-0275B9C99310}|0403\\0403.vcxproj|C:\\Users\\User\\source\\repos\\ooc\\0403\\0403\\0403_4if.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01491828-525D-4649-A333-0275B9C99310}|0403\\0403.vcxproj|solutionrelative:0403\\0403_4if.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01491828-525D-4649-A333-0275B9C99310}|0403\\0403.vcxproj|C:\\Users\\User\\source\\repos\\ooc\\0403\\0403\\0403ex.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01491828-525D-4649-A333-0275B9C99310}|0403\\0403.vcxproj|solutionrelative:0403\\0403ex.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01491828-525D-4649-A333-0275B9C99310}|0403\\0403.vcxproj|C:\\Users\\User\\source\\repos\\ooc\\0403\\0403\\0403_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01491828-525D-4649-A333-0275B9C99310}|0403\\0403.vcxproj|solutionrelative:0403\\0403_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01491828-525D-4649-A333-0275B9C99310}|0403\\0403.vcxproj|C:\\Users\\User\\source\\repos\\ooc\\0403\\0403\\0403_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01491828-525D-4649-A333-0275B9C99310}|0403\\0403.vcxproj|solutionrelative:0403\\0403_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01491828-525D-4649-A333-0275B9C99310}|0403\\0403.vcxproj|C:\\Users\\User\\source\\repos\\ooc\\0403\\0403\\0403.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{01491828-525D-4649-A333-0275B9C99310}|0403\\0403.vcxproj|solutionrelative:0403\\0403.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "123.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ooc\\0403\\0403\\123.c",
+              "RelativeDocumentMoniker": "0403\\123.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ooc\\0403\\0403\\123.c",
+              "RelativeToolTip": "0403\\123.c",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-03T05:57:51.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "0403_4if.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ooc\\0403\\0403\\0403_4if.c",
+              "RelativeDocumentMoniker": "0403\\0403_4if.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ooc\\0403\\0403\\0403_4if.c",
+              "RelativeToolTip": "0403\\0403_4if.c",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-03T05:19:04.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "0403ex.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ooc\\0403\\0403\\0403ex.c",
+              "RelativeDocumentMoniker": "0403\\0403ex.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ooc\\0403\\0403\\0403ex.c",
+              "RelativeToolTip": "0403\\0403ex.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-03T03:29:58.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "0403_3.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ooc\\0403\\0403\\0403_3.c",
+              "RelativeDocumentMoniker": "0403\\0403_3.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ooc\\0403\\0403\\0403_3.c",
+              "RelativeToolTip": "0403\\0403_3.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-03T02:31:48.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "0403_2.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ooc\\0403\\0403\\0403_2.c",
+              "RelativeDocumentMoniker": "0403\\0403_2.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ooc\\0403\\0403\\0403_2.c",
+              "RelativeToolTip": "0403\\0403_2.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-03T01:38:30.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "0403.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ooc\\0403\\0403\\0403.c",
+              "RelativeDocumentMoniker": "0403\\0403.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ooc\\0403\\0403\\0403.c",
+              "RelativeToolTip": "0403\\0403.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-03T00:13:11.152Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

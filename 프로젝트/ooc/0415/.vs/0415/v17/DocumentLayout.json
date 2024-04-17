@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\ooc\\0415\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35CE30BE-749C-4CE0-8BDC-6F9CE331239B}|0415\\0415.vcxproj|C:\\Users\\User\\source\\repos\\ooc\\0415\\0415\\0415_8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35CE30BE-749C-4CE0-8BDC-6F9CE331239B}|0415\\0415.vcxproj|solutionrelative:0415\\0415_8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CE30BE-749C-4CE0-8BDC-6F9CE331239B}|0415\\0415.vcxproj|C:\\Users\\User\\source\\repos\\ooc\\0415\\0415\\0415.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35CE30BE-749C-4CE0-8BDC-6F9CE331239B}|0415\\0415.vcxproj|solutionrelative:0415\\0415.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CE30BE-749C-4CE0-8BDC-6F9CE331239B}|0415\\0415.vcxproj|C:\\Users\\User\\source\\repos\\ooc\\0415\\0415\\0415_6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35CE30BE-749C-4CE0-8BDC-6F9CE331239B}|0415\\0415.vcxproj|solutionrelative:0415\\0415_6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CE30BE-749C-4CE0-8BDC-6F9CE331239B}|0415\\0415.vcxproj|C:\\Users\\User\\source\\repos\\ooc\\0415\\0415\\0415_7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35CE30BE-749C-4CE0-8BDC-6F9CE331239B}|0415\\0415.vcxproj|solutionrelative:0415\\0415_7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CE30BE-749C-4CE0-8BDC-6F9CE331239B}|0415\\0415.vcxproj|C:\\Users\\User\\source\\repos\\ooc\\0415\\0415\\0415_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35CE30BE-749C-4CE0-8BDC-6F9CE331239B}|0415\\0415.vcxproj|solutionrelative:0415\\0415_2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CE30BE-749C-4CE0-8BDC-6F9CE331239B}|0415\\0415.vcxproj|C:\\Users\\User\\source\\repos\\ooc\\0415\\0415\\0415_4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35CE30BE-749C-4CE0-8BDC-6F9CE331239B}|0415\\0415.vcxproj|solutionrelative:0415\\0415_4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CE30BE-749C-4CE0-8BDC-6F9CE331239B}|0415\\0415.vcxproj|C:\\Users\\User\\source\\repos\\ooc\\0415\\0415\\0415_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35CE30BE-749C-4CE0-8BDC-6F9CE331239B}|0415\\0415.vcxproj|solutionrelative:0415\\0415_3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CE30BE-749C-4CE0-8BDC-6F9CE331239B}|0415\\0415.vcxproj|C:\\Users\\User\\source\\repos\\ooc\\0415\\0415\\0415_5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35CE30BE-749C-4CE0-8BDC-6F9CE331239B}|0415\\0415.vcxproj|solutionrelative:0415\\0415_5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "0415_8.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ooc\\0415\\0415\\0415_8.c",
+              "RelativeDocumentMoniker": "0415\\0415_8.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ooc\\0415\\0415\\0415_8.c",
+              "RelativeToolTip": "0415\\0415_8.c",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-15T05:52:50.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "0415_7.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ooc\\0415\\0415\\0415_7.c",
+              "RelativeDocumentMoniker": "0415\\0415_7.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ooc\\0415\\0415\\0415_7.c",
+              "RelativeToolTip": "0415\\0415_7.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-15T05:22:42.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "0415_6.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ooc\\0415\\0415\\0415_6.c",
+              "RelativeDocumentMoniker": "0415\\0415_6.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ooc\\0415\\0415\\0415_6.c",
+              "RelativeToolTip": "0415\\0415_6.c",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-15T04:53:12.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "0415_5.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ooc\\0415\\0415\\0415_5.c",
+              "RelativeDocumentMoniker": "0415\\0415_5.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ooc\\0415\\0415\\0415_5.c",
+              "RelativeToolTip": "0415\\0415_5.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-15T03:17:19.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "0415_4.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ooc\\0415\\0415\\0415_4.c",
+              "RelativeDocumentMoniker": "0415\\0415_4.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ooc\\0415\\0415\\0415_4.c",
+              "RelativeToolTip": "0415\\0415_4.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-15T01:34:00.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "0415_3.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ooc\\0415\\0415\\0415_3.c",
+              "RelativeDocumentMoniker": "0415\\0415_3.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ooc\\0415\\0415\\0415_3.c",
+              "RelativeToolTip": "0415\\0415_3.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-15T01:13:39.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "0415_2.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ooc\\0415\\0415\\0415_2.c",
+              "RelativeDocumentMoniker": "0415\\0415_2.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ooc\\0415\\0415\\0415_2.c",
+              "RelativeToolTip": "0415\\0415_2.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-15T00:38:51.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "0415.c",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\ooc\\0415\\0415\\0415.c",
+              "RelativeDocumentMoniker": "0415\\0415.c",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\ooc\\0415\\0415\\0415.c",
+              "RelativeToolTip": "0415\\0415.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-15T00:14:36.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
